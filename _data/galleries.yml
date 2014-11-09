@@ -1,0 +1,358 @@
+- id: installation_shots
+  description: Installation Shots
+  imagefolder: /img/installation_shots
+  images:
+  - name: installation-shot-1.jpg
+    thumb: thumbs_installation-shot-1.jpg
+    text: "&quot;Installation View&quot;, Solo Exhibition at Linda Warren Gallery Chicago, 2011"
+  - name: installation-shot-2.jpg
+    thumb: thumbs_installation-shot-2.jpg
+    text: "&quot;Installation View&quot;, Solo Exhibition at Linda Warren Gallery Chicago, 2011"
+  - name: installation-shot-3.jpg
+    thumb: thumbs_installation-shot-3.jpg
+    text: "&quot;Installation View&quot;, Solo Exhibition at Linda Warren Gallery Chicago, 2011"
+  - name: installation-shot-4.jpg
+    thumb: thumbs_installation-shot-4.jpg
+    text: "&quot;Installation View&quot;, Solo Exhibition at Linda Warren Gallery Chicago, 2011"
+  - name: installation-shot-5.jpg
+    thumb: thumbs_installation-shot-5.jpg
+    text: "&quot;Installation View&quot;, Solo Exhibition at Linda Warren Gallery Chicago, 2011"
+- id: new_work
+  description: New Work
+  imagefolder: /img/new_work
+  images:
+  - name: 001-10_17_14-big-richard-ply1-web.jpg
+    thumb: thumbs_001-10_17_14-big-richard-ply1-web.jpg
+    text: "&quot;Big Richard (Ply),&quot; Reclaimed Baltic Birch Plywood, 2014, 57&quot; h x 15&quot; w x 15&quot; d (with pedestal, 46&quot; h x 20&quot; w x 20&quot; d)"
+  - name: 002-10_17_14-big-richard-ply2-web.jpg
+    thumb: thumbs_002-10_17_14-big-richard-ply2-web.jpg
+    text: "&quot;Big Richard (Ply),&quot; Reclaimed Baltic Birch Plywood, 2014, 57&quot; h x 15&quot; w x 15&quot; d (with pedestal, 46&quot; h x 20&quot; w x 20&quot; d)"
+  - name: 003-10_17_14-big-richard-ply3-web.jpg
+    thumb: thumbs_003-10_17_14-big-richard-ply3-web.jpg
+    text: "&quot;Big Richard (Ply),&quot; Reclaimed Baltic Birch Plywood, 2014, 57&quot; h x 15&quot; w x 15&quot; d (with pedestal, 46&quot; h x 20&quot; w x 20&quot; d)"
+  - name: 004-10_17_14-big-richard-ply4-web.jpg
+    thumb: thumbs_004-10_17_14-big-richard-ply4-web.jpg
+    text: "&quot;Big Richard (Ply/Detail),&quot; Reclaimed Baltic Birch Plywood, 2014, 57&quot; h x 15&quot; w x 15&quot; d (with pedestal, 46&quot; h x 20&quot; w x 20&quot; d)"
+  - name: 005-10_17_14-big-richard-poplar1-web.jpg
+    thumb: thumbs_005-10_17_14-big-richard-poplar1-web.jpg
+    text: "&quot;Big Richard (Poplar),&quot; Poplar wood, 2014, 46&quot; h x 15&quot; w x 9&quot; d (with pedestal, 57&quot; h x 16&quot; w x 11&quot; d)"
+  - name: 006-10_17_14-big-richard-poplar2-web.jpg
+    thumb: thumbs_006-10_17_14-big-richard-poplar2-web.jpg
+    text: "&quot;Big Richard (Poplar),&quot; Poplar wood, 2014, 46&quot; h x 15&quot; w x 9&quot; d (with pedestal, 57&quot; h x 16&quot; w x 11&quot; d)"
+  - name: 007-10_17_14-big-richard-poplar3-web.jpg
+    thumb: thumbs_007-10_17_14-big-richard-poplar3-web.jpg
+    text: "&quot;Big Richard (Poplar),&quot; Poplar wood, 2014, 46&quot; h x 15&quot; w x 9&quot; d (with pedestal, 57&quot; h x 16&quot; w x 11&quot; d)"
+  - name: 008-10_17_14-big-richard-poplar4-webjpg.jpg
+    thumb: thumbs_008-10_17_14-big-richard-poplar4-webjpg.jpg
+    text: "&quot;Big Richard (Poplar/Detail),&quot; Poplar wood, 2014, 46&quot; h x 15&quot; w x 9&quot; d (with pedestal, 57&quot; h x 16&quot; w x 11&quot; d)"
+  - name: 009-10_17_14-big-richard-poplar5-web.jpg
+    thumb: thumbs_009-10_17_14-big-richard-poplar5-web.jpg
+    text: "&quot;Big Richard (Poplar/Detail),&quot; Poplar wood, 2014, 46&quot; h x 15&quot; w x 9&quot; d (with pedestal, 57&quot; h x 16&quot; w x 11&quot; d)"
+  - name: 010-10_17_14-big-richard-poplar6-web.jpg
+    thumb: thumbs_010-10_17_14-big-richard-poplar6-web.jpg
+    text: "&quot;Big Richard (Poplar/Detail),&quot; Poplar wood, 2014, 46&quot; h x 15&quot; w x 9&quot; d (with pedestal, 57&quot; h x 16&quot; w x 11&quot; d)"
+  - name: 011-10_17_14-big-richard-poplar12-web.jpg
+    thumb: thumbs_011-10_17_14-big-richard-poplar12-web.jpg
+    text: "&quot;Megan Standing by Big Richard (Poplar),&quot; 2014"
+  - name: 012-10_17_14-black-3d-print-1-web.jpg
+    thumb: thumbs_012-10_17_14-black-3d-print-1-web.jpg
+    text: "&quot;Richard (3D Print/Black),&quot; 3D Printed PLA plastic, 2014, 9&quot; h x 5.5&quot; w x 3&quot; d"
+  - name: 013-10_17_14-blue-3d-print-1-web.jpg
+    thumb: thumbs_013-10_17_14-blue-3d-print-1-web.jpg
+    text: "&quot;Richard (3D Print/Blue Bust),&quot; 3D Printed PLA plastic, 2014, 5.5&quot; h x 4&quot; w x 5&quot; d"
+  - name: 014-10_17_14-blue-3d-print-2-web.jpg
+    thumb: thumbs_014-10_17_14-blue-3d-print-2-web.jpg
+    text: "&quot;Richard (3D Print/Blue Bust),&quot; 3D Printed PLA plastic, 2014, 5.5&quot; h x 4&quot; w x 5&quot; d"
+  - name: 015-10_17_14-clear-3d-print-1-web.jpg
+    thumb: thumbs_015-10_17_14-clear-3d-print-1-web.jpg
+    text: "&quot;Richard (3D Print/Clear Bust),&quot; 3D Printed PLA plastic, 2014, 3&quot; h x 1.5&quot; w x 3&quot; d"
+  - name: 016-10_17_14-butcher-block-richard2-web.jpg
+    thumb: thumbs_016-10_17_14-butcher-block-richard2-web.jpg
+    text: "&quot;Small Richard (Butcher Block),&quot; Maple Butcher Block, 2014, 16&quot; h x 6&quot; w x 4.5&quot; d (with pedestal, 76&quot; h x 13.25&quot; w x 14&quot; d)"
+  - name: 017-10_17_14-butcher-block-richard3-web.jpg
+    thumb: thumbs_017-10_17_14-butcher-block-richard3-web.jpg
+    text: "&quot;Small Richard (Butcher Block),&quot; Maple Butcher Block, 2014, 16&quot; h x 6&quot; w x 4.5&quot; d (with pedestal, 76&quot; h x 13.25&quot; w x 14&quot; d)"
+  - name: 018-10_17_14-butcher-block-richard4-web.jpg
+    thumb: thumbs_018-10_17_14-butcher-block-richard4-web.jpg
+    text: "&quot;Small Richard (Butcher Block),&quot; Maple Butcher Block, 2014, 16&quot; h x 6&quot; w x 4.5&quot; d (with pedestal, 76&quot; h x 13.25&quot; w x 14&quot; d)"
+  - name: 019-10_17_14-butcher-block-richard1-web.jpg
+    thumb: thumbs_019-10_17_14-butcher-block-richard1-web.jpg
+    text: "&quot;Small Richard (Butcher Block),&quot; Maple Butcher Block, 2014, 16&quot; h x 6&quot; w x 4.5&quot; d (with pedestal, 76&quot; h x 13.25&quot; w x 14&quot; d)"
+  - name: 020-10_17_14-ply-bust-1-web.jpg
+    thumb: thumbs_020-10_17_14-ply-bust-1-web.jpg
+    text: "&quot;Bust of Richard (Ply),&quot; Plywood and Milk Paint, 2014, 12&quot; h x 7&quot; w x 12&quot; d (with pedestal, 56&quot; h x 18.5&quot; x 18.5&quot; w x 26.5&quot; d"
+  - name: 021-10_17_14-ply-bust-2-web.jpg
+    thumb: thumbs_021-10_17_14-ply-bust-2-web.jpg
+    text: "&quot;Bust of Richard (Ply),&quot; Plywood and Milk Paint, 2014, 12&quot; h x 7&quot; w x 12&quot; d (with pedestal, 56&quot; h x 18.5&quot; x 18.5&quot; w x 26.5&quot; d)"
+  - name: 022-10_17_14-ply-bust-3-web.jpg
+    thumb: thumbs_022-10_17_14-ply-bust-3-web.jpg
+    text: "&quot;Bust of Richard (Ply),&quot; Plywood and Milk Paint, 2014, 12&quot; h x 7&quot; w x 12&quot; d (with pedestal, 56&quot; h x 18.5&quot; x 18.5&quot; w x 26.5&quot; d)"
+  - name: 023-10_17_14-small-ply-richard-back-web.jpg
+    thumb: thumbs_023-10_17_14-small-ply-richard-back-web.jpg
+    text: "&quot;Richard Back (Small Ply),&quot; Plywood, 2014, 23.5&quot; h x 9&quot; w x 2.5&quot; d"
+  - name: 024-10_17_14-small-ply-richard-front-web.jpg
+    thumb: thumbs_024-10_17_14-small-ply-richard-front-web.jpg
+    text: "&quot;Richard Front (Small Ply),&quot; Plywood, 2014, 26&quot; h x 8&quot; w x 2.5&quot; d"
+  - name: 025-10_17_14-draped-figure-1-web.jpg
+    thumb: thumbs_025-10_17_14-draped-figure-1-web.jpg
+    text: "&quot;Draped Richard,&quot; Walnut and Oak, 2014, 18.5&quot; h x 7.75&quot; w x 4&quot; d"
+  - name: 026-10_17_14-draped-figure-2-web.jpg
+    thumb: thumbs_026-10_17_14-draped-figure-2-web.jpg
+    text: "&quot;Draped Richard,&quot; Walnut and Oak, 2014, 18.5&quot; h x 7.75&quot; w x 4&quot; d"
+  - name: 001_richard_half_back_poplar_resized.jpg
+    thumb: thumbs_001_richard_half_back_poplar_resized.jpg
+    text: "&quot;Little Richard (Back),&quot; Poplar wood, 2013, approx. 16&quot; h x 4&quot; w x 2&quot; d"
+  - name: 002_full_richard_glued_front_resized.jpg
+    thumb: thumbs_002_full_richard_glued_front_resized.jpg
+    text: "&quot;Little Richard (Full Front View),&quot; Poplar wood, 2013, approx. 16&quot; h x 4&quot; w x 3&quot; d"
+  - name: 003_view_2_full_richard_poplar_resized.jpg
+    thumb: thumbs_003_view_2_full_richard_poplar_resized.jpg
+    text: "&quot;Little Richard (Full 3/4 view),&quot; Poplar wood, 2013, approx. 16&quot; h x 4&quot; w x 3&quot; d"
+  - name: 004_back_view_full_richard_poplar_resized.jpg
+    thumb: thumbs_004_back_view_full_richard_poplar_resized.jpg
+    text: "&quot;Little Richard (Full Back View),&quot; Poplar wood, 2013, approx. 16&quot; h x 4&quot; w x 3&quot; d"
+  - name: 005_front_richard_bust_resized_1.jpg
+    thumb: thumbs_005_front_richard_bust_resized_1.jpg
+    text: "&quot;Bust of Richard,&quot; Coated Polystyrene, 2013, approx. 28&quot; h x 30&quot; w x 20&quot; d"
+  - name: 006_view_2_richard_bust_resized.jpg
+    thumb: thumbs_006_view_2_richard_bust_resized.jpg
+    text: "&quot;Bust of Richard, (3/4 View)&quot; Coated Polystyrene, 2013, approx. 28&quot; h x 30&quot; w x 20&quot; d"
+  - name: 007_andrew_resized.jpg
+    thumb: thumbs_007_andrew_resized.jpg
+    text: "&quot;Andrew,&quot; Coated Polystyrene, 2013, approx. 48&quot; h x 20&quot; w x 8&quot; d"
+  - name: 008_white_vac_formed_richard_resized.jpg
+    thumb: thumbs_008_white_vac_formed_richard_resized.jpg
+    text: "&quot;Richard Head,&quot; Vacuum-Formed Styrene, 2013, 12&quot; h x 12&quot; w x 2&quot; d"
+- id: good_intentions
+  description: Good Intentions
+  imagefolder: /img/good_intentions
+  images:
+  - name: good-intentions-o-holy-night.jpg
+    thumb: thumbs_good-intentions-o-holy-night.jpg
+    text: "&quot;Good Intentions #1 (O Holy Night),&quot; Oil on canvas, 47.25&quot; h x 67.5&quot; w, 2009"
+  - name: good-intentions-2-mama-needs-a-new-pair-o-shoes.jpg
+    thumb: thumbs_good-intentions-2-mama-needs-a-new-pair-o-shoes.jpg
+    text: "&quot;Good Intentions #2 (Mama Needs a New Pair Of Shoes),&quot; Oil on canvas, 52&quot; h x 66&quot; w, 2009"
+  - name: good-intentions-3-the-calling.jpg
+    thumb: thumbs_good-intentions-3-the-calling.jpg
+    text: "&quot;Good Intentions #3 (The Calling),&quot; chicken wire armature with plaster gauze, latex paint, and wood chair, 56&quot; x 54&quot; x 32&quot;, 2011"
+  - name: good-intentions-4-dammi-i-sacchi-view-3.jpg
+    thumb: thumbs_good-intentions-4-dammi-i-sacchi-view-3.jpg
+    text: "&quot;Good Intentions #4 (Dammi i Sacchi),&quot; chicken wire armature with plaster, latex paint, fabric, and wood, 2011"
+  - name: good-intentions-4-dammi-i-sacchi.jpg
+    thumb: thumbs_good-intentions-4-dammi-i-sacchi.jpg
+    text: "&quot;Good Intentions #4 (Dammi i Sacchi),&quot; chicken wire armature with plaster, latex paint, fabric, and wood, 2011"
+- id: capoeira
+  description: Capoeira
+  imagefolder: /img/capoeira
+  images:
+  - name: new1.jpg
+    thumb: thumbs_new1.jpg
+    text: "&quot;Roda at Mario’s,&quot; oil on canvas, 23.5&quot; x 31&quot;, 2009"
+  - name: new10.jpg
+    thumb: thumbs_new10.jpg
+    text: "&quot;Wodson and Ednei,&quot; oil on canvas, 11.75&quot; x 15.75&quot;, 2009"
+  - name: new11.jpg
+    thumb: thumbs_new11.jpg
+    text: "&quot;Batizado (leaning towards fishing net),&quot; oil on canvas, 19.75&quot; x 26&quot;, 2009"
+  - name: new12.jpg
+    thumb: thumbs_new12.jpg
+    text: "&quot;Roda on Street,&quot; oil on canvas, 11.75&quot; x 15&quot;, 2009"
+  - name: new13.jpg
+    thumb: thumbs_new13.jpg
+    text: "&quot;Batizado (rowers circled by women),&quot; oil on canvas, 11.75&quot; x 15.75&quot;, 2009"
+  - name: new14.jpg
+    thumb: thumbs_new14.jpg
+    text: "&quot;Maculele,&quot; acrylic on canvas, 60&quot; diameter, 2010"
+  - name: new15.jpg
+    thumb: thumbs_new15.jpg
+    text: "&quot;Batizado (Bowing),&quot; acrylic on canvas, 29&quot; h. x 85&quot;, 2010"
+  - name: new16.jpg
+    thumb: thumbs_new16.jpg
+    text: "&quot;Maculele (small version),&quot; flasche and gouache on paper mounted on board, 4&quot; x 9&quot;, 2010"
+  - name: new17.jpg
+    thumb: thumbs_new17.jpg
+    text: "Dancer with Feathers (small version),&quot; flasche and gouache on paper, 8&quot; x 10&quot;, 2010"
+  - name: new2.jpg
+    thumb: thumbs_new2.jpg
+    text: "&quot;Everaldo and Boca Nua,&quot; oil on canvas, 31.5&quot; x 41&quot;, 2009"
+  - name: new3.jpg
+    thumb: thumbs_new3.jpg
+    text: "&quot;Megan and Capo,&quot; oil on canvas, 11.75&quot; x 15.75&quot;, 2009"
+  - name: new4.jpg
+    thumb: thumbs_new4.jpg
+    text: "&quot;Female dancer with Feathers,&quot; oil on canvas, 27.5&quot; x 36.4&quot;, 2009"
+  - name: new5.jpg
+    thumb: thumbs_new5.jpg
+    text: "&quot;Fishermen Rowing (small version),&quot; oil on canvas, 10&quot; x 11.75&quot;, 2009"
+  - name: new6.jpg
+    thumb: thumbs_new6.jpg
+    text: "&quot;Fishermen Rowing: still #2,&quot; acrylic on paper, 4.75&quot; x 9&quot;, 2009"
+  - name: new7.jpg
+    thumb: thumbs_new7.jpg
+    text: "&quot;Fishermen Rowing (large version),&quot; acrylic on canvas, 39.5&quot; x 79&quot;, 2009"
+  - name: new8.jpg
+    thumb: thumbs_new8.jpg
+    text: "&quot;Batizado Fishermen (still #1),&quot; acrylic on paper, 4.75&quot; x 9&quot;, 2009"
+  - name: new9.jpg
+    thumb: thumbs_new9.jpg
+    text: "&quot;Batizado (Raising the Fishing Net),&quot; oil on canvas, 15.75&quot; x 20.5&quot;, 2009"
+  - name: puxada-de-rede-in-brazil-1.jpg
+    thumb: thumbs_puxada-de-rede-in-brazil-1.jpg
+    text: "&quot;Puxada de Rede in Brazil,&quot; oil on canvas, 69&quot; x 96&quot;, 2010"
+  - name: 21.jpg
+    thumb: thumbs_21.jpg
+    text: "&quot;Mask (Inspired by Yoruban Headdress),&quot; acrylic on canvas, 40&quot; x 60&quot;, 2010"
+  - name: chamada-view-2.jpg
+    thumb: thumbs_chamada-view-2.jpg
+    text: "&quot;Chamada, &quot; chicken wire armature with plaster gauze, latex paint, and wood base, 74&quot; x 74&quot; x 65&quot;, 2011"
+  - name: chamada.jpg
+    thumb: thumbs_chamada.jpg
+    text: "&quot;Chamada, &quot; chicken wire armature with plaster gauze, latex paint, and wood base, 74&quot; x 74&quot; x 65&quot;, 2011"
+  - name: 002-capoeira-performance.jpg
+    thumb: thumbs_002-capoeira-performance.jpg
+    text: "&quot;Capoeira Performance at *Reenactments* Solo Exhibition,&quot; Linda Warren Gallery Chicago, 2011"
+  - name: 003_capoeira-performance.jpg
+    thumb: thumbs_003_capoeira-performance.jpg
+    text: "&quot;Capoeira Performance at *Reenactments* Solo Exhibition,&quot; Linda Warren Gallery Chicago, 2011"
+- id: the_bridgemakers
+  description: The Bridgemakers
+  imagefolder: /img/the_bridgemakers
+  images:
+  - name: bridge1.jpg
+    thumb: thumbs_bridge1.jpg
+    text: "&quot;The Bricklayers (Leaning)&quot;, gouache on paper mounted on board, 5&quot; x 7&quot;, 2006"
+  - name: bridge10.jpg
+    thumb: thumbs_bridge10.jpg
+    text: "&quot;Portrait of Shmeeg Holding the Lightstick for the Bridgemakers,&quot; oil on linen, 14&quot; x 16&quot;, 2007"
+  - name: bridge11.jpg
+    thumb: thumbs_bridge11.jpg
+    text: "&quot;Portrait of Lisa Pointing at the Fire,&quot; oil on board, 5&quot; x 7&quot;, 2007"
+  - name: bridge2.jpg
+    thumb: thumbs_bridge2.jpg
+    text: "&quot;The Bricklayers (Reaching),&quot; Flasche on paper mounted on board, 5&quot; x 7&quot;, 2006"
+  - name: bridge3.jpg
+    thumb: thumbs_bridge3.jpg
+    text: "&quot;The Bricklayers (Rose),&quot; Flasche on linen stretched over board, 5&quot; x 7&quot;, 2006"
+  - name: bridge4.jpg
+    thumb: thumbs_bridge4.jpg
+    text: "&quot;The Bricklayers,&quot; Oil on canvas, 84&quot; x 100&quot;, 2006"
+  - name: bridge5.jpg
+    thumb: thumbs_bridge5.jpg
+    text: "&quot;The Bridgemakers,&quot; Oil on canvas, 64&quot; x 96&quot;, 2007"
+  - name: bridge6.jpg
+    thumb: thumbs_bridge6.jpg
+    text: "&quot;Portrait of Joseph Looking at the Fire,&quot; Oil on canvas, 12&quot; x 16&quot;, 2007"
+  - name: bridge7.jpg
+    thumb: thumbs_bridge7.jpg
+    text: "&quot;Portrait of Megan Holding the Lightstick for the Bridgemakers,&quot; Oil on canvas, 14&quot; x 18&quot;, 2007"
+  - name: bridge8.jpg
+    thumb: thumbs_bridge8.jpg
+    text: "&quot;Portrait of Nadia Holding the Lightstick for the Bridgemakers,&quot; Oil on canvas, 16.5&quot; x 16.5&quot;, 2007"
+  - name: bridge9.jpg
+    thumb: thumbs_bridge9.jpg
+    text: "&quot;Portrait of Pud Eating a Soy Dog,&quot; Oil on panel, 12&quot; x 12&quot;, 2007"
+- id: the_bathers
+  description: The Bathers
+  imagefolder: /img/the_bathers
+  images:
+  - name: pool-painting-1-with-red-wall-web.jpg
+    thumb: thumbs_pool-painting-1-with-red-wall-web.jpg
+    text: "&quot;Pool with swimmers and Red Wall #1,&quot; 2011, Acrylic on paper, 2011, 14&quot; x 17&quot;, framed"
+  - name: pool-painting-with-2-reclining-figures-web.jpg
+    thumb: thumbs_pool-painting-with-2-reclining-figures-web.jpg
+    text: "&quot;Pool with Two Reclining Figures,&quot; 2011, Acrylic on paper, 2011, 13&quot; x 16&quot;, framed"
+  - name: pool-painting-with-2-sitting-figures-web.jpg
+    thumb: thumbs_pool-painting-with-2-sitting-figures-web.jpg
+    text: "&quot;Pool with Two Sitting Figures,&quot; 2011, Acrylic on paper, 2011, 13&quot; x 16.5&quot;, framed"
+  - name: 004-pool-painting-with-kids-web.jpg
+    thumb: thumbs_004-pool-painting-with-kids-web.jpg
+    text: "&quot;Pool with Kids,&quot; 2011, Acrylic on canvas, 2011, 14&quot; x 18&quot;"
+  - name: pool-painting-with-red-building-2-web.jpg
+    thumb: thumbs_pool-painting-with-red-building-2-web.jpg
+    text: "&quot;Pool with Red Wall #2,&quot; Oil on linen, 2011, 20&quot; x 28&quot;"
+  - name: standing-swimmer-at-pool-web.jpg
+    thumb: thumbs_standing-swimmer-at-pool-web.jpg
+    text: "&quot;Standing Swimmer by Red Wall,&quot; Acrylic on paper, 2011, 8.5&quot; x 11.5&quot;"
+  - name: 007-pool-painting-with-lifeguard-web.jpg
+    thumb: thumbs_007-pool-painting-with-lifeguard-web.jpg
+    text: "&quot;Pool with Lifeguard,&quot; Oil on linen, 2011, 14&quot; x 18&quot;"
+  - name: bath10.jpg
+    thumb: thumbs_bath10.jpg
+    text: "&quot;Man with White Hat and Annette,&quot; Flasche on paper, 7&quot; x 10&quot;, 2008"
+  - name: bath11.jpg
+    thumb: thumbs_bath11.jpg
+    text: "&quot;Three People and a Blue Towel,&quot; Flashe and gouache on paper, 6 1/2 &quot; x 9 1/2&quot;, 2008"
+  - name: bath12.jpg
+    thumb: thumbs_bath12.jpg
+    text: "&quot;La Mola (Sand Diggers), &quot; Oil on canvas, 74&quot; x 100&quot;, 2008"
+  - name: bath13.jpg
+    thumb: thumbs_bath13.jpg
+    text: "&quot;Boy with Green Suit,&quot; Flasche and gouache on paper, 9&quot; x 12&quot;, 2008"
+  - name: bullicame-baccus.jpg
+    thumb: thumbs_bullicame-baccus.jpg
+    text: "&quot;Bullicame (Bacchus),&quot; oil on canvas, 52 &quot; x 67.5&quot;, 2009"
+  - name: bath14.jpg
+    thumb: thumbs_bath14.jpg
+    text: "&quot;Saturnia,&quot; Oil on canvas, 52.75&quot; x 68.5&quot;, 2008"
+  - name: bath3.jpg
+    thumb: thumbs_bath3.jpg
+    text: "&quot;Two boys on Beach,&quot; Gouache on paper mounted on board, 5&quot; x 7&quot;, 2007"
+  - name: 001-everythings-gonna-be-fine-scene-7.jpg
+    thumb: thumbs_001-everythings-gonna-be-fine-scene-7.jpg
+    text: "&quot;Everything’s Gonna be Fine, Scene 6,&quot; Oil on canvas, 44&quot; x 83&quot;, 2006"
+  - name: bath4.jpg
+    thumb: thumbs_bath4.jpg
+    text: "&quot;Italian Shower,&quot; Oil on linen, approx. 70&quot; x 96&quot;, 2008"
+  - name: bath5.jpg
+    thumb: thumbs_bath5.jpg
+    text: "&quot;La Mola,&quot; Oil on linen, 56&quot; x 116&quot;, 2007"
+  - name: bath6.jpg
+    thumb: thumbs_bath6.jpg
+    text: "&quot;Division Street Baths #2 (Four Buckets) inspired by photograph by Josh Hawkins,&quot; Oil on canvas, 63&quot; x 100&quot;, 2008"
+  - name: bath7.jpg
+    thumb: thumbs_bath7.jpg
+    text: "&quot;La Mola (Sand Diggers) #2,&quot; Oil on canvas, 48 &quot; x 54&quot;, 2008"
+  - name: bath8.jpg
+    thumb: thumbs_bath8.jpg
+    text: "&quot;Swimmers/Climber&quot;  inspired by photograph by George Hoyningen-Huene,&quot; Oil on canvas, 54 &quot; x 46&quot;, 2008"
+  - name: bath9.jpg
+    thumb: thumbs_bath9.jpg
+    text: "&quot;Woman with Red Towel&quot; inspired by photograph by Toni Frissell,&quot; Flashe, watercolor, gouache on paper, 10 1/4&quot; x 7 1/8&quot;, 2008"
+- id: figures_and_observational_work
+  description: Figures and Observational Work
+  imagefolder: /img/figures_and_observational_work
+  images:
+  - name: 001-figure-model-front-web.jpg
+    thumb: thumbs_001-figure-model-front-web.jpg
+    text: "&quot;Figure model (front view),&quot; Acrylic on paper, 2012, 15&quot; x 22.5&quot;"
+  - name: 002-figure-model-1-web_0.jpg
+    thumb: thumbs_002-figure-model-1-web_0.jpg
+    text: "&quot;Seated model (back view),&quot; Acrylic on paper, 2012, 15&quot; x 22.5&quot;"
+  - name: 003-baseball-field-1-web_0.jpg
+    thumb: thumbs_003-baseball-field-1-web_0.jpg
+    text: "&quot;Baseball Field from 18th Street Bridge,&quot; Acrylic on canvas, 2012, 18&quot; x 24&quot;"
+  - name: 004-baseball-field-2-web.jpg
+    thumb: thumbs_004-baseball-field-2-web.jpg
+    text: "&quot;Baseball Field #2 from 18th Street Bridge,&quot; Oil on panel, 2012, 15.5&quot; x 21&quot;"
+  - name: man-on-bed-side.jpg
+    thumb: thumbs_man-on-bed-side.jpg
+    text: "&quot;Man on Bed #1,&quot; Gouache on paper mounted on board, 5&quot; x 7&quot;, 2006"
+  - name: misc2.jpg
+    thumb: thumbs_misc2.jpg
+    text: "&quot;Man on Bed #2,&quot; Gouache on paper mounted on board, 7&quot; x 10&quot;, 2006"
+  - name: misc3.jpg
+    thumb: thumbs_misc3.jpg
+    text: "&quot;Man on Couch #1,&quot; Gouache on linen stretched over board, 5&quot; x 7&quot;, 2006"
+  - name: misc4.jpg
+    thumb: thumbs_misc4.jpg
+    text: "&quot;Man on Couch with Cat,&quot; Gouache on linen stretched over board, 5&quot; x 7&quot;, 2006"
+  - name: misc5.jpg
+    thumb: thumbs_misc5.jpg
+    text: "&quot;Ritual,&quot; Oil on canvas, 70&quot; x 96&quot;, 2006"
+  - name: misc6.jpg
+    thumb: thumbs_misc6.jpg
+    text: "&quot;Man on bed #3,&quot; Gouache on paper mounted on board, 7&quot; x 10&quot;, 2006"
+  - name: misc7.jpg
+    thumb: thumbs_misc7.jpg
+    text: "&quot;Portrait of Ettore Lupi,&quot; Pen on paper, 7&quot; x 10&quot;, 2007"
