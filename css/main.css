@@ -244,3 +244,4 @@ body:after {
 }
 
 figure {display:inline;float:left;}
+img{max-width:100%;}
